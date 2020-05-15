@@ -2,6 +2,8 @@
 Sample Spring Boot app using https://github.com/awslabs/djl that can detect COVID-19 using X-ray images.
 Please note it only runs on mac or linux as it uses Tensorflow.
 
+See here for blog post on this code: http://kaviddiss.com/2020/05/14/deep-learning-with-spring-boot-and-djl/.
+
 # Build
 Run `mvn compile`.
 
