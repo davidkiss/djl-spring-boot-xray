@@ -18,15 +18,8 @@
         <ai.djl.version>0.5.0</ai.djl.version>
         <mxnet-native.version>1.6.0</mxnet-native.version>
         <jna.version>5.3.0</jna.version>
-        <tensorflow-native-auto.version>2.1.0-a-SNAPSHOT</tensorflow-native-auto.version>
+        <tensorflow-native-auto.version>2.1.0</tensorflow-native-auto.version>
     </properties>
-
-    <repositories>
-        <repository>
-            <id>djl.ai</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-        </repository>
-    </repositories>
 
     <dependencies>
         <dependency>
